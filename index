@@ -1,0 +1,177 @@
+
+Matematica Ii - 3º Ano C Noite - Médio
+ABRAHAM LINCOLN, C E PRES-EF M N PROFIS
+Próximas atividades
+Nenhuma atividade para a próxima semana!
+
+Escreva um aviso para sua turma
+
+Aviso: "Segue as linhas de código."
+MARCUS VINICIUS DELGOBO
+Criado em: 21:4621:46
+Segue as linhas de código.
+
+linhas de codigo html.txt
+Texto
+
+Adicionar comentário para a turma...
+
+
+Aviso: "Oi pessoas. Para não ficarmos toda aula…"
+MARCUS VINICIUS DELGOBO
+Criado em: 21 de mar.21 de mar.
+Oi pessoas. 
+
+Para não ficarmos toda aula fazendo o download dos arquivos do drive para o computador para modificarmos as linhas da programação, para quem ainda não tem, vamos criar uma conta no GitHub. 
+
+Abaixo estão os "prints" das telas da sequência de criação de uma conta no GitHub. 
+
+Com essa conta, poderemos modificar as linhas de código direto on line e não precisaremos fazer o download para os computadores.
+Exibindo Slide1.JPG
+Slide1.JPG
+
+Slide2.JPG
+Imagem
+
+Slide3.JPG
+Imagem
+
+Slide4.JPG
+Imagem
+
+Slide5.JPG
+Imagem
+
+Slide6.JPG
+Imagem
+
+Slide7.JPG
+Imagem
+
+Slide8.JPG
+Imagem
+
+Slide9.JPG
+Imagem
+
+Slide10.JPG
+Imagem
+
+Slide11.JPG
+Imagem
+
+Slide12.JPG
+Imagem
+
+Slide13.JPG
+Imagem
+
+Slide14.JPG
+Imagem
+
+Slide15.JPG
+Imagem
+
+Adicionar comentário para a turma...
+
+
+Aviso: "Oi! Quem quiser modificar o arquivo…"
+MARCUS VINICIUS DELGOBO
+Criado em: 1 de mar.1 de mar.
+Oi!
+
+Quem quiser modificar o arquivo index.html, tente modificar o texto identificado no arquivo pdf em anexo por uma chave. Ele é o "header" do site!
+
+Para isso, abram o arquivo no VS Code (infelizmente não consegui via celular, somente em computadores!!!!). Lembrem que cada modificação feita no VS Code deve ser salva (o comando é "CTRL + S").
+
+header.pdf
+PDF
+
+Adicionar comentário para a turma...
+
+
+Aviso: "O site (portfólio) deverá aparecer com…"
+MARCUS VINICIUS DELGOBO
+Criado em: 1 de mar.1 de mar.
+O site (portfólio) deverá aparecer com essas informações. deveremos modificar primeiramente o título (nome), foto e descrição.
+Exibindo Screenshot_1.jpg
+Screenshot_1.jpg
+
+Adicionar comentário para a turma...
+
+
+Aviso: "Bom dia turma. Para agilizar e nos…"
+MARCUS VINICIUS DELGOBO
+Criado em: 1 de mar.1 de mar.
+Bom dia turma.
+
+Para agilizar e nos organizarmos na próxima aula, nossa sequência de atividades será:
+Fazer o download da pasta criada no drive em um computador no laboratório.
+Configurar o arquivo index.html para abrir com o navegador instalado na máquina.
+Abrir tal arquivo no navegador e analisar o projeto (site/portfólio) que deverá aparecer no navegador.
+A partir dele é que iniciarmos as modificações e personalizações através da modificação das linhas da programação.
+
+Adicionar comentário para a turma...
+
+
+Aviso: "ENVIANDO NOVAMENTE O LINK DA PASTA.…"
+MARCUS VINICIUS DELGOBO
+Criado em: 21 de fev.21 de fev.
+ENVIANDO NOVAMENTE O LINK DA PASTA.
+
+https://drive.google.com/drive/folders/1GyA374Bsm6w1GPjo9YIicx5VIpVkcBgg?usp=sharing
+
+IGNOREM OS LINKS ANTERIORES.
+
+Adicionar comentário para a turma...
+
+
+Aviso: "INSTRUÇÕES:…"
+MARCUS VINICIUS DELGOBO
+Criado em: 21 de fev.21 de fev.
+INSTRUÇÕES:
+
+https://drive.google.com/file/d/1ZX75RK_7A1KgpI9Hl0Z2vK1hQikZwbi0/view?usp=drive_link, https://drive.google.com/file/d/13kV5S-rxV7LsTbg5wAFv_MnoUeZJRghe/view?usp=drive_link, https://drive.google.com/drive/folders/1eUVn8aBUD8QMFTfYfs5aoz8sLylYx4JZ?usp=drive_link, https://drive.google.com/drive/folders/1qSZYDQO1UXL45rpxxRP1Q_JAQRud6Xym?usp=drive_link, https://drive.google.com/drive/folders/1IPA6PCd3N7KsbK8y-ZD-yUbo4DE1a-Mp?usp=drive_link
+
+COPIAR ESSES ARQUIVOS NA PASTA "matematica2" NO DRIVE.
+
+Adicionar comentário para a turma...
+
+Mural
+﻿<!DOCTYPE html>
+<html>
+   <head>
+      <title>Blog Pessoal</title>
+      </head> 
+   <body>
+      <header>   
+      <h1>Seu Blog Pessoal</h1>
+      <nav>
+         <a href=”dominio.tld/home”>Início</a>
+         <a href=”dominio.tld/blog”>Blog</a>
+         <a href=”dominio.tld/sobre”>Sobre</a>
+      </nav>
+      </header>
+      <main>
+         <div class=”row">
+            <div class="post-text-box">
+               <h1>Postagem Mais Recente</h1>
+               <section>
+                  <h1>Primeira Postagem</h1>
+                  <p>O conteúdo do primeiro post</p>
+               </section>
+            </div>
+            <div class=”profile”>
+               <h1>Sobre Mim</h1>
+               <img src=”foto-de-perfil.png”>
+               <p>Sobre o autor</p>
+            </div>  
+         </div>        
+      </main>
+      <footer>
+         <a href=”twitter.com/autor”>Twitter</a>
+         <a href=”facebook.com/autor”>Facebook</a>
+         <a href=”instagram.com/autor”>Instagram</a>
+      </footer>
+    </body>
+</html>
